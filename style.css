@@ -2,8 +2,11 @@
 h3 {
 	font-family: Comic Sans MS
 	align: center;
+<<<<<<< HEAD
 	background-color:white;
 	border: 10px solid black;
+=======
+>>>>>>> 6e0c4e97696079bc0c7997d00fc077c1823d6f78
 	}
 h3:hover {
 	background-color: white
@@ -24,7 +27,11 @@ li{
 	color: green;
 }
 h5{
+<<<<<<< HEAD
 	color: #DE7C67;
+=======
+	color:green;
+>>>>>>> 6e0c4e97696079bc0c7997d00fc077c1823d6f78
 	font-family: Arial;
 }
 #bottomplace {
